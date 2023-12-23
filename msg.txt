@@ -10,7 +10,7 @@
    <div class="wrapper">
    <h2 class="question">You like me?</h2>
    <img class="gif" alt="gif" src="https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gifyou.webp">
-   <div class="btn-group"> <button class="YES-btn">YES</button> <button class="NO-btn">NO</button>
+   <div class="btn-group"> <button class="yes-btn">YES</button> <button class="no-btn">NO</button>
 </div>
 <div>
 <script src="script.js"></script>
